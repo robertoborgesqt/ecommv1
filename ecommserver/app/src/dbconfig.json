@@ -1,0 +1,19 @@
+{
+    "db_ip": "162.241.203.82",
+    "db_name": "hookah41_tabacaria",
+    "db_owner": "hookah41_tabaco",
+    "db_passwd": "tabaco",
+    "db_port": "3306",
+    "name": "QMYSQL",
+    "nr_conexoes": "22",
+    "nr_threads": "20",
+	"stack":"1000",
+	"MARC_CODIGO": "88" ,
+	"port":"6520",
+	"limite":"2",
+	"limit_sec":"-1",
+	"timeout":"-1",
+	"logToFile":"S",
+	"tcp-timeout":"0"
+}
+ 

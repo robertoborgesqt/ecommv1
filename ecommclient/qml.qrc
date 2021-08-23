@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>imagens/user.png</file>
+        <file>EnderecoEntrega.qml</file>
+        <file>imagens/back.png</file>
+        <file>imagens/icone22.png</file>
+        <file>imagens/SETAD.jpg</file>
+        <file>Botao.qml</file>
+        <file>Texto.qml</file>
+        <file>imagens/Ecommerce-Shopping-Cart-Empty-icon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  srv:
+    build: .
+    ports:
+      - "9000:9000"
+  db:
+    image: mysql
+    ports:
+      - "3309:3308"

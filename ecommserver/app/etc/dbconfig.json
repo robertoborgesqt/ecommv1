@@ -1,0 +1,12 @@
+{
+    "db_ip": "172.22.160.1",
+    "db_name": "ecomm",
+    "db_owner": "root",
+    "db_passwd": "root",
+    "db_port": "3308",
+    "name": "QMYSQL",
+    "nr_conexoes": "4",
+	"limite":"2",
+	"logToFile":"S"
+}
+ 
