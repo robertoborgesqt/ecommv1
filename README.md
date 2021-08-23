@@ -27,7 +27,9 @@ utilizar o arquivo script.sql localizado na pasta app para criar o banco
 # Configurando server-http
 Configurar o arquivo app/etc/datasrv.ini com as opções de Arquivos de log.
 Configurar o arquivo app/etc/dbconfig.json com as opções de acesso ao banco de dados.
+Executando o docker build, os fontes serão compilados, gerando o executável datasrv no diretório app/debug.
 Necessário informar o ip/porta que deseja compartilhar o serviço (Veja opções de container)
+
 No docker, abrir o terminal e: 
 cd app/debug
 ./datasrv 9000
