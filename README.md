@@ -3,7 +3,7 @@
  
  Este pacote é constituido das seguintes aplicações:
  ECommClient - É a solução escrita em QT/QML/C++ que demonstra os acessos ao ECommServer utilizando HTTP/Json
- ECommServer - Baseado no framework HttpC++ stephen frings, traduz as requisições em SQL e retorna resultos em Json. 
+ ECommServer - Baseado no framework HttpC++ stephen frings, traduz as requisições em SQL e retorna resultados em Json. 
  Mysql - Banco de dados via imagem docker configurado com um script SQL
  
  
